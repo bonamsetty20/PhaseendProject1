@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\bin\Debug\PhaseEndProject1.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\bin\Debug\PhaseEndProject1.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\bin\Debug\PhaseEndProject1.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\obj\Debug\PhaseEndProject1.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\obj\Debug\PhaseEndProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\obj\Debug\PhaseEndProject1.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\obj\Debug\PhaseEndProject1.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PhaseEndProject1\PhaseEndProject1\obj\Debug\PhaseEndProject1.pdb
